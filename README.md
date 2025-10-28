@@ -40,8 +40,7 @@
 
 ## 📞 Connect with Me
 - **Email:** marydasofeng@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/mary-njuguna-data-scientist/)]
 - **Phone:** +254 797269136
 
 ---
-*This portfolio is hosted on GitHub Pages. Explore the project folders above to see the code and detailed documentation!*
