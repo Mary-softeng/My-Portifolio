@@ -40,7 +40,7 @@
 
 ## 📞 Connect with Me
 - **Email:** marydasofeng@gmail.com
-- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/mary-njuguna-data-scientist/)]
+- **LinkedIn:** [[Mary Njuguna](https://www.linkedin.com/in/mary-njuguna-data-scientist/)]
 - **Phone:** +254 797269136
 
 ---
