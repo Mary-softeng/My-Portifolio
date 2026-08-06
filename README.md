@@ -1,6 +1,6 @@
 # Mary Njuguna's Data Analytics Portfolio
 
-👋 Hello! I'm Mary, a Results-driven Data Analyst with 2 years of professional experience at CreditInfo Credit Reference Bureau. I specialize in transforming complex data into actionable insights and strategic solutions for financial institutions. My expertise lies in **Python**, **SQL**, **Power BI**, and building predictive models like **logistic regression scorecards**.
+👋 Hello! I'm Mary, a Results-driven Data Analyst with 3 years of professional experience at CreditInfo Credit Reference Bureau. I specialize in transforming complex data into actionable insights and strategic solutions for financial institutions. My expertise lies in **Python**, **SQL**, **Power BI**, and building predictive models like **logistic regression scorecards**.
 
 ## 🛠️ Technical Skills
 - **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn, Streamlit), R, SQL
